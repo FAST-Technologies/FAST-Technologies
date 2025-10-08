@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello Everyone! My name is ... 👋
 
 <!--
 **FAST-Technologies/FAST-Technologies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # FAST-Technologies
-My personal statictics repo
+### There you can see my personal statictics repo
 
 My favorite IDes/Editors:
 ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
