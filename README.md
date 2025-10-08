@@ -163,8 +163,6 @@ Git skills:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fast-technologies)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=fast-technologies)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fast-technologies)](https://github.com/fast-technologies/github-readme-stats)
