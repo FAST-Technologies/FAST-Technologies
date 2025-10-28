@@ -16,6 +16,13 @@ Here are some ideas to get you started:
 -->
 
 # FAST-Technologies
+
+👀 I’m interested in databases, AI, math science, Python Programming, exploring generative networks and LLMs, the deep world of classic Machine Learning models and Computer Vision systems.
+
+🌱 I’m currently learning Machine Learning, currently focusing on Computer Vision (CV).
+
+📫 How to reach me: 89137420014a@gmail.com or yamshikovvladim@yandex.ru
+
 ### There you can see my personal statictics repo
 
 My favorite IDes/Editors:
